@@ -86,11 +86,10 @@ addContributor(imageUrl, contributorName, githubLink,linkedin);
 
 // -- >  addContributor(Url Of Image, contributor Name (Your Name), github Account Link , linkedin account link);
 
-// addContributor("https://cdn.pixabay.com/photo/2017/01/31/21/23/   avatar-2027365_1280.png","Anmol Tripathi","https://github.com/AdityaGaur7","#")
 addContributor("https://cdn.pixabay.com/photo/2017/01/31/21/23/   avatar-2027365_1280.png","Aditya Gaur","https://github.com/AdityaGaur7","#")
-// addContributor("https://cdn.pixabay.com/photo/2021/08/17/09/03/girl-6552421_1280.png","Prachi Patel","https://github.com/myselfprachi","#")
+
 addContributor("https://cdn.pixabay.com/photo/2021/08/17/09/03/girl-6552421_1280.png","Aaradhaya Singh","https://github.com/aaradhayasingh811","#")
-// addContributor("https://cdn.pixabay.com/photo/2017/01/31/21/23/avatar-2027365_1280.png","Sarthak","https://github.com/hackbysarthak03
+
 addContributor("https://cdn.pixabay.com/photo/2017/01/31/21/23/   avatar-2027365_1280.png","Meet Thakur","https://github.com/MeetThakur","#")
 addContributor("https://cdn.pixabay.com/photo/2017/01/31/21/23/   avatar-2027365_1280.png","Visa Coder","https://www.github.com/codeWithVisa","#")
 addContributor("https://cdn.pixabay.com/photo/2017/01/31/21/23/   avatar-2027365_1280.png","Nalukui malimba","https://github.com/nalukui01","#")
