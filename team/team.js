@@ -86,7 +86,6 @@ addContributor("https://cdn.pixabay.com/photo/2017/01/31/21/23/   avatar-2027365
 addContributor("https://cdn.pixabay.com/photo/2017/01/31/21/23/   avatar-2027365_1280.png","Saurabh Singh","https://github.com/saurabhsingh720")
 addContributor("https://cdn.pixabay.com/photo/2017/01/31/21/23/   avatar-2027365_1280.png","Mateo Álvarez","https://github.com/drifterDev")
 addContributor("https://cdn.pixabay.com/photo/2017/01/31/21/23/   avatar-2027365_1280.png","Ankit Goyal","https://github.com/Ankit9126")
-
 addContributor("https://cdn.pixabay.com/photo/2021/08/17/09/03/girl-6552421_1280.png","Varsha Awasthi","#")
 addContributor("https://cdn.pixabay.com/photo/2017/01/31/21/23/   avatar-2027365_1280.png"," Shubham Goyal","https://github.com/ShubhamGoyal7125")
 addContributor("https://cdn.pixabay.com/photo/2021/08/17/09/03/girl-6552421_1280.png","Aastha Gupta","https://github.com/motivated-star")
