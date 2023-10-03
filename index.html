@@ -39,7 +39,7 @@
                 <!-- <h1>Welcome to CodeX</h1> -->
                 <!-- type text animation -->
                 <h1>Welcome to <span class="auto-type"></span> </h1>
-                <button class="explore-btn">
+                <button class="explore-btn" onclick="scrollToExplore()">
                     Explore
                 </button>
             </div>
@@ -300,7 +300,17 @@
 
 
 
-
+    <!-- Scroll Function added on Explore Button -->
+    <script>
+        function scrollToExplore() {
+            var scrollHeight = (document.body.scrollHeight || document.documentElement.scrollHeight) * 0.3;
+            window.scrollTo({
+                top: scrollHeight,
+                behavior: 'smooth' 
+            });
+        }
+    </script>
+<!-- Scroll function ended here -->
 
 
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
