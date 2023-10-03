@@ -44,6 +44,8 @@ function addContributor(imageUrl, contributorName, githubLink) {
     contributorCard.appendChild(infoSection);
 
     contributorsContainer.appendChild(contributorCard);
+
+    
 }
 var imageUrl = 'https://img.freepik.com/premium-photo/cartoonish-3d-animation-boy-glasses-with-blue-hoodie-orange-shirt_899449-25777.jpg?size=338&ext=jpg&ga=GA1.1.867977485.1696353987&semt=ais';
 var contributorName = 'Tejas Mishra';
