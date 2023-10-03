@@ -151,6 +151,8 @@ li{
 
 .card .img-sec img {
     border-radius: 50%;
+    border: 8px solid #fff;
+    box-shadow: inset 6px 6px 20px 0 rgba(104,139,255,0.2),rgba(104, 139, 255, 0.1) 0px 4px 20px ,rgba(104, 139, 255, 0.1) 0px 8px 24px , rgba(102, 111, 128, 0.4) 0px 16px 45px;
 }
 
 
