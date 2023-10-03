@@ -92,3 +92,7 @@ addContributor("https://cdn.pixabay.com/photo/2021/08/17/09/03/girl-6552421_1280
 addContributor("https://cdn.pixabay.com/photo/2017/01/31/21/23/   avatar-2027365_1280.png","Prakash Mondal","https://github.com/rko0211")
 addContributor("https://cdn.pixabay.com/photo/2017/01/31/21/23/   avatar-2027365_1280.png","Deepak Maurya","https://github.com/deepakmaur")
 addContributor("https://cdn.pixabay.com/photo/2017/01/31/21/23/   avatar-2027365_1280.png","Kartik Labhshetwar","https://github.com/KartikLabhshetwar")
+
+addContributor("https://cdn.pixabay.com/photo/2017/01/31/21/23/   avatar-2027365_1280.png","Piyush Kumar Tyagi","https://github.com/piyushtyagiofficial")
+addContributor("https://cdn.pixabay.com/photo/2017/01/31/21/23/   avatar-2027365_1280.png","Dhiraj Laulkar","https://github.com/githubdhiraj")
+addContributor("https://cdn.pixabay.com/photo/2017/01/31/21/23/   avatar-2027365_1280.png","Reajul Haque Reayz","https://github.com/Reayz")
