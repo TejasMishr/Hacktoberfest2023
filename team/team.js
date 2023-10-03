@@ -64,7 +64,7 @@ function addContributor(imageUrl, contributorName, githubLink, linkedinLink) {
 var imageUrl = 'https://img.freepik.com/premium-vector/man-character_665280-46970.jpg';
 var contributorName = 'Sarthak Vishwakarma';
 var githubLink = 'https://github.com/hackbysarthak03';
-var linkedin = '#';
+var linkedin = 'https://www.linkedin.com/in/hellosarthak/';
 addContributor(imageUrl, contributorName, githubLink);
 var imageUrl = 'https://img.freepik.com/premium-photo/cartoonish-3d-animation-boy-glasses-with-blue-hoodie-orange-shirt_899449-25777.jpg?size=338&ext=jpg&ga=GA1.1.867977485.1696353987&semt=ais';
 var contributorName = 'Tejas Mishra';
