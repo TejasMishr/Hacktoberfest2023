@@ -28,7 +28,16 @@
             <li class="navbar-list-item"><a href="#contributors">Contributors</a></li>
         </ul>
     </nav>
-
+    <div class="loader">
+        <div class="spinner">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
 
     <section class="section">
         <div class="container">
@@ -39,9 +48,12 @@
                 <!-- <h1>Welcome to CodeX</h1> -->
                 <!-- type text animation -->
                 <h1>Welcome to <span class="auto-type"></span> </h1>
+
                 <button class="explore-btn" onclick="scrollToExplore()">
+
                     Explore
                 </button>
+
             </div>
         </div>
     </section>
@@ -57,10 +69,15 @@
             </ol>
             <div class="carousel-inner">
                 <div class="carousel-item active">
+
                     <img class="d-block w-100" src="./img/1.avif" alt="First slide">
                 </div>
+               
+                    <img class="d-block w-100" src="/img/1.avif" alt="First slide">
+                </div>
                 <div class="carousel-item">
-                    <img class="d-block w-100" src="./img/2.avif" alt="Second slide">
+                    <img class="d-block w-100" src="/img/2.avif" alt="Second slide">
+
                 </div>
 
             </div>
@@ -94,6 +111,7 @@
         <hr>
 
 
+
         <div class="contributors-cards people" id="contributors-container">
             <!-- Team members will be added here dynamically (code will look clear) -->
             <!-- team members can be added from team/team.js file -->
@@ -103,6 +121,7 @@
 
 
     <!-- team member card ended here -->
+
 
 
 
@@ -147,6 +166,47 @@
     </div>
   </form>
 </section>
+
+        </h1>
+        <h1 class="form">Contact Form</h1>
+        <section class="contact-wrap">
+            <form action="" class="contact-form">
+                <div class="col-sm-12">
+                    <div class="input-block">
+                        <label for="">First Name</label>
+                        <input type="text" class="form-control">
+                    </div>
+                </div>
+                <div class="col-sm-12">
+                    <div class="input-block">
+                        <label for="">Last Name</label>
+                        <input type="text" class="form-control">
+                    </div>
+                </div>
+                <div class="col-sm-12">
+                    <div class="input-block">
+                        <label for="">Email</label>
+                        <input type="text" class="form-control">
+                    </div>
+                </div>
+                <div class="col-sm-12">
+                    <div class="input-block">
+                        <label for="">Message Subject</label>
+                        <input type="text" class="form-control">
+                    </div>
+                </div>
+                <div class="col-sm-12">
+                    <div class="input-block textarea">
+                        <label for="">Drop your message here</label>
+                        <textarea rows="3" type="text" class="form-control"></textarea>
+                    </div>
+                </div>
+                <div class="col-sm-12">
+                    <button class="square-button" id="btn4">Send</button>
+                </div>
+            </form>
+        </section>
+
 
 
 
@@ -260,6 +320,9 @@
         </div>
     </footer>
 
+
+<script src="script.js"></script>
+
     <script>
         // JavaScript to toggle mobile navigation
         const menuToggle = document.querySelector('.menu-toggle');
@@ -268,6 +331,7 @@
         menuToggle.addEventListener('click', () => {
             navbarList.classList.toggle('active');
         });
+
     </script>
     <!-- added script for type-text creation -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.10/typed.js"></script>
@@ -279,6 +343,7 @@
             loop: true
         })
     </script>
+
 
 
     <!-- image gif change after 5 seconds-->
@@ -323,6 +388,7 @@
         integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous">
     </script>
     <script src="team/team.js"></script>
+
 
 </body>
 
